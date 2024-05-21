@@ -1,22 +1,27 @@
 export const QuizData = [
     {
-        question: "Which language runs in a web browser?",
-        options:[ "Java", "C", "Python", "JavaScript"],
-        answer: 4
-    },
-    {
-        question: "What does CSS stand for?",
-        options:["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "Cars SUVs Sailboats"],
+        question: "Which company developed the TypeScript language?",
+        options: ["Google", "Microsoft", "Facebook", "Apple"],
         answer: 2
     },
     {
-        question: "What does HTML stand for?",
-        options: ["Hypertext Markup Language", "Hypertext Markdown Language", "Hyperloop Machine Language", "Helicopters Terminals Motorboats Lamborginis"],
+        question: "What does JSON stand for?",
+        options: ["JavaScript Object Notation", "Java Standard Output Network", "JavaScript Output Name", "JavaScript Object Network"],
         answer: 1
     },
     {
-        question: "What year was JavaScript launched?",
-        options: ["1996", "1995", "1994", "none of the above"],
-        answer:2
+        question: "Which HTML attribute is used to define inline styles?",
+        options: ["class", "style", "font", "styles"],
+        answer: 2
     },
+    {
+        question: "Which protocol is used to send email?",
+        options: ["FTP", "HTTP", "SMTP", "SSH"],
+        answer: 3
+    },
+    {
+        question: "What does the acronym DOM stand for in web development?",
+        options: ["Document Object Model", "Data Object Model", "Document Observation Model", "Data Object Management"],
+        answer: 1
+    }
 ];
